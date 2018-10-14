@@ -58,5 +58,5 @@ header.startup h1 {
   cursor: pointer;
 }
 .clear{
-   align-content: center;
+   align-self: : center;
   }
